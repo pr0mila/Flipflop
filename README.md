@@ -1,5 +1,6 @@
 # Flipflop
-"Flipflop" - an platform of exchanging old products with each others. It an academic software development project of mine. I've showed this project on CSE Fest of my university from team CatLab.
+"Flipflop" - an platform of exchanging old products with each others. It an academic software development project of mine. I've showed this project on CSE Fest of my university from the team CatLab. I've used Html, Css, Js, Php and Mysql for this project. 
+
 ### **Flipflop - Let's exchange**
 ![logo](https://user-images.githubusercontent.com/39271244/51996876-d4529680-24df-11e9-805a-a646147f7d1e.png)
 
