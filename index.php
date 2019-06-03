@@ -1,7 +1,7 @@
 <?php
 
 
-include("auth.php"); //include auth.php file on all secure pages ?>
+include("log/auth.php"); //include auth.php file on all secure pages ?>
 <!DOCTYPE html>
 <html>
 <head>
