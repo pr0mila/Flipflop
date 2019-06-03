@@ -22,7 +22,7 @@ include("log/auth.php"); //include auth.php file on all secure pages ?>
 <body>
 <div id="outer">
 <div id="header" align="right">
-<p><b>Welcome</b> <?php echo $_SESSION['username']; ?>!</p>
+<p><b>Welcome</b> <?php echo htmlspecialchars($_SESSION['username']); ?>!</p>
 <div id="button"><h3><a href="logout.php">Logout</a></h3></div>
 </div>
 <div class="contact_logo" align="center">
